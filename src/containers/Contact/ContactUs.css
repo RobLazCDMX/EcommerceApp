@@ -1,0 +1,56 @@
+#contactPage {
+  /* background-image: url(/img/header.jpg); */
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+label {
+  display: block;
+  align-items: center;
+  color: maroon;
+  font-size: 1.5rem;
+}
+
+#inputButton {
+  background-color: red;
+  color: white;
+  padding: 1rem;
+  font-size: 1rem;
+  border: blue solid;
+}
+
+#inputButton:hover {
+  color: seagreen;
+}
+
+form div {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+form input[type="text"] {
+  border: blue solid;
+  background-color: black;
+  color: white;
+}
+
+form textarea {
+  border: blue solid;
+  background-color: black;
+  color: white;
+  height: 175px;
+}
+
+form input[type="tel"] {
+  border: blue solid;
+  background-color: black;
+  color: white;
+}
+
+form input[type="email"] {
+  border: blue solid;
+  background-color: black;
+  color: white;
+  width: 20vw;
+}

@@ -1,0 +1,206 @@
+{
+    "items":[
+  {
+    "id": 1,
+    "name": "LED lamp lightbulb",
+    "price": "7.34",
+    "description":
+      "Feit Electric PL GX24Q-3 4-Pin LED Bulb Cool White 26 Watt Equivalence 1 pk",
+    "image": "https://cdn.shopify.com/s/files/1/1405/6268/products/image_b573fd9b-6441-47e6-a6a1-e3f55e695b7d_400x400.jpg?v=1586279771",
+    "type": "Electrical",
+    "cost":"low"
+  },
+  {
+    "id": 2,
+    "name": "Electrical tape",
+    "price": "6.90",
+    "description":
+      "Ace 3/4 in. W x 30 ft. L Black Cotton Cloth Friction Tape",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjNGbuHwyMtdP7mkZLSDX_wy_ypI_ugX_noQ&usqp=CAU",
+    "type": "Electrical",
+    "cost": "low"
+  },
+  {
+    "id": 3,
+    "name": "Lightbulb",
+    "price": "2.00",
+    "description":
+      "Greenlite A21 E26 (Medium) Filament LED Bulb Warm White 100 Watt Equivalence 1 pk",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61JYDwb9z8L._AC_SX679_.jpg",
+    "type": "Electrical",
+    "cost": "low"
+  },
+  {
+    "id": 4,
+    "name": "Extension cord",
+    "price": "3.98",
+    "description":
+      "Woods Smart Cord Indoor 6 ft. L Extension Cord 16/2 SPT",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81kjtGnc0VL._AC_SY550_.jpg",
+    "type": "Electrical",
+    "cost": "low"
+  },
+  {
+    "id": 5,
+    "name": "Faucet",
+    "price": "29.65",
+    "description":
+      "Moen Renzo One Handle Stainless Steel Pull Out Kitchen Faucet",
+    "image": "https://mobileimages.lowes.com/product/converted/026508/026508194935.jpg",
+    "type": "Plumbing",
+    "cost": "low"
+  },
+  {
+    "id": 6,
+    "name": "Hoses",
+    "price": "45.98",
+    "description":
+      "Ultra Dynamic Products 3/8 in. 4 ft. Rubber Washing Machine Hose",
+    "image": "https://cdn-tp3.mozu.com/24645-37138/cms/37138/files/805aff3b-8335-4c68-bf9c-002a8db56698?quality=60&max=400&_mzcb=_1606525719704",
+    "type": "Plumbing",
+    "cost": "medium"
+  },
+  {
+    "id": 7,
+    "name": "Supply lines",
+    "price": "120.00",
+    "description":
+      "Ace 3/8 in. Compression x 3/8 in. Dia. MIP 72 in. Braided Stainless Steel Supply Line",
+    "image": "https://lh3.googleusercontent.com/lsR8tNlM9kdMmZkG0XoaRRPSHwMF89WCmtmG7tFvxfdr8gB-jbswf1XgdzDE5mXXVoG5LA=s128",
+    "type": "Plumbing",
+    "cost": "high"
+  },
+  {
+    "id": 8,
+    "name": "Valves",
+    "price": "14.63",
+    "description":
+      "Arrowhead Hose Bibb",
+    "image": "https://content.interlinebrands.com/product/Image/Detail/10105/SX-0224071_usn.jpg",
+    "type": "Plumbing",
+    "cost": "low"
+  },
+  {
+    "id": 9,
+    "name": "Air compressor",
+    "price": "189.50",
+    "description":
+      "Craftsman 6 gal. Pancake Portable Air Compressor 150 psi 0.8 hp",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71uahf6BJcL._AC_SL1500_.jpg",
+    "type": "PowerTools",
+    "cost": "high"
+  },
+  {
+    "id": 1,
+    "name": "Cordless drill",
+    "price": "88.75",
+    "description":
+      "Black and Decker 20 volt 3/8 in. Brushed Cordless Compact Drill Kit (Battery & Charger Included)",
+    "image": "https://images.homedepot-static.com/productImages/0264a8e5-123a-4165-966e-522ce9cea8c0/svn/black-decker-power-drills-bdcdd220c-64_600.jpg",
+    "type": "PowerTools",
+    "cost": "medium"
+  },
+  {
+    "id": 1,
+    "name": "Nut setter",
+    "price": "28.47",
+    "description":
+      "DeWalt Impact Ready Multi Size in. x 1-7/8 in. L Black Oxide Nut Driver Set 5 pc.",
+    "image": "https://images.homedepot-static.com/productImages/88e0dcbc-e998-4a9d-b543-94c680cc001b/svn/dewalt-screwdriver-bits-dwatndmi5-64_600.jpg",
+    "type": "PowerTools",
+    "cost": "low"
+  },
+  {
+    "id": 1,
+    "name": "Screwdriver bits",
+    "price": "23.47",
+    "description":
+      "DeWalt Impact Ready Screwdriver Bit Set Black Oxide 45 pc",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81bL0JQomTL._SL1500_.jpg",
+    "type": "PowerTools",
+    "cost": "low"
+  },
+  {
+    "id": 1,
+    "name": "Cement",
+    "price": "15.89",
+    "description":
+      "Quikrete Quick-Setting Anchoring Cement 10 lb.",
+    "image": "https://mobileimages.lowes.com/product/converted/039645/039645124130.jpg",
+    "type": "BuildingMaterial",
+    "cost": "low"
+  },
+  {
+    "id": 1,
+    "name": "Cement glue",
+    "price": "18.29",
+    "description":
+      "Duco Cement Polyurethane Glue 1 oz.",
+    "image": "https://www.fgci.com/images/items/135674-lrg.png",
+    "type": "BuildingMaterial",
+    "cost": "low"
+  },
+  {
+    "id": 1,
+    "name": "4x4 Lumber",
+    "price": "24.99",
+    "description":
+      "Alexandria Moulding 4 in. W x 8 ft. L x 2 in. Pine Treated Fence Rail",
+    "image": "https://images.homedepot-static.com/productImages/140d6ba1-7888-419e-8fdf-53c96c587155/svn/alexandria-moulding-hardwood-boards-00q33-40096c-64_400.jpg",
+    "type": "BuildingMaterial",
+    "cost": "low"
+  },
+  {
+    "id": 1,
+    "name": "Fence metal",
+    "price": "36.87",
+    "description":
+      "Sierra Monarch 47 in. H x 330 ft. L Steel Field Fence Silver",
+    "image": "https://i.ebayimg.com/images/g/FCsAAOSw3~9dfCXA/s-l640.jpg",
+    "type": "BuildingMaterial",
+    "cost": "medium"
+  },
+  {
+    "id": 1,
+    "name": "Arrow Fastener",
+    "price": "10.99",
+    "description":
+      "Arrow Fastener T50 3/8 in. W x 1/4 in. L 18 Ga. Wide Crown Heavy Duty 1250 pk",
+    "image": "https://cdn.shopify.com/s/files/1/1405/6268/products/image_285bd89c-5f1d-43bf-a78a-6e00191cca53_large.jpg?v=1586284236",
+    "type": "Fasteners",
+    "cost": "low"
+  },
+
+  {
+    "id": 1,
+    "name": "Lock nuts 50pk",
+    "price": "7.49",
+    "description":
+      "Hillman M6-1.00 mm Zinc-Plated Steel Metric Nylon Lock Nut 50 pk",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-cjkybtXGC2cgSfH0DElWTN8yjShIzTOEmg&usqp=CAU",
+    "type": "Fasteners",
+    "cost": "low"
+  },
+
+  {
+    "id": 1,
+    "name": "Glue sticks",
+    "price": "8.46",
+    "description":
+      "4 in. Dual Temperature Glue Sticks (24-Pack)",
+    "image": "https://images.homedepot-static.com/productImages/bec3ce85-b4fe-419d-8322-8fa1a4b62cb5/svn/arrow-adhesives-tape-bap5-4-64_1000.jpg",
+    "type": "Fasteners",
+    "cost": "low"
+  },
+
+  {
+    "id": 2,
+    "name": "Cordless nailer",
+    "price": "33.99",
+    "description":
+      "M18 FUEL 3-1/2 in. 18-Volt 30-Degree Lithium-Ion Brushless Cordless Framing Nailer (Tool-Only)",
+      "image":"https://images.homedepot-static.com/productImages/9365e78e-6c6d-482b-92aa-83a56041fda9/svn/milwaukee-framing-nailers-2745-20-64_1000.jpg",
+    "type": "Fasteners",
+    "cost": "medium"
+  }
+]}

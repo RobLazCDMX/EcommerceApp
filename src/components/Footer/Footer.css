@@ -1,0 +1,18 @@
+.Footer {
+    position: static;
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+}
+
+.Footer img {
+vertical-align: middle;
+}
+
+i{
+    size: 9vh;
+    padding: 0 20px;
+}

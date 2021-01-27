@@ -1,0 +1,54 @@
+.slider {
+  // border: 1px solid red;
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  box-sizing: border-box;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  background: black;
+  i{
+      font-size: 2vw;
+  }
+}
+
+.slide {
+  position: relative;
+  // border: 1px solid blue;
+  min-width: 100%;
+  height: 100%;
+  transition: 0.5s;
+  overflow: hidden;
+}
+
+%btn-styles{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 10%;
+  height: 100%;
+  background: none;
+  border: none;
+  outline: none; //hides the btn outline after its activated
+  transition: 0.5s;
+  &:hover {
+      background: rgba(0, 0, 0, 0.178);
+      cursor: pointer;
+      i{
+      color: whitesmoke;
+      }
+  }
+
+}
+
+#goLeft {
+  left: 0;
+  @extend %btn-styles;
+}
+
+#goRight {
+  right: 0;
+  @extend %btn-styles;
+}

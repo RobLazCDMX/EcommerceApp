@@ -13,45 +13,40 @@ const homePage = () => {
   return (
     <Aux>
       <SlideShow />
-      <article>
-        <div className="flexbox">
-          <div className="box">
-            <a href="/product.html#electrical">
+      
+        <div className="grid">
+          <div>
+            {/* <a href="/product.html#electrical"> */}
               <img src={Electrical} alt=" cannot be found" className="Img" />
               <h3>Electrical & Lighting Products</h3>
-            </a>
+            {/* </a> */}
           </div>
-          <div className="box">
-            <a href="/product.html#plumbing">
+          <div>
+            {/* <a href="/product.html#plumbing"> */}
               <img src={Plumbing} alt=" cannot be found" className="Img" />
               <h3>Plumbing</h3>
-            </a>
+            {/* </a> */}
           </div>
-          <div className="box">
-            <a href="/product.html#power">
+          <div>
+            {/* <a href="/product.html#power"> */}
               <img src={Powertools} alt=" cannot be found" className="Img" />
-              <h3>Hand and power tools</h3>
-            </a>
+              <h3>Hand & power tools</h3>
+            {/* </a> */}
           </div>
-        </div>
-      </article>
-      <div className="clr"></div>
-      <article>
-        <div className="flexbox">
-          <div className="box2">
-            <a href="/product.html#building">
+          <div>
+            {/* <a href="/product.html#building"> */}
               <img src={Building} alt=" cannot be found" className="Img" />
               <h3>Building Material</h3>
-            </a>
+            {/* </a> */}
           </div>
-          <div className="box2">
-            <a href="/product.html#fastener">
+          <div>
+            {/* <a href="/product.html#fastener"> */}
               <img src={Fasteners} alt=" cannot be found" className="Img" />
-              <h3>Fasteners</h3>{" "}
-            </a>
+              <h3>Fasteners</h3>
+            {/* </a> */}
           </div>
         </div>
-      </article>
+    
     </Aux>
   );
 };

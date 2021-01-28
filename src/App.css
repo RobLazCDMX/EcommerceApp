@@ -1,35 +1,13 @@
 body {
   padding: 0;
-  margin: 0;
+  margin: 20px;
   background: #e9eaed;
   /* background-image: url(/img/Background.jpg); */
 }
-/* header {
-  background-color: white;
-  text-align: center;
-}
-
-#Logo {
-  width: 300px;
-  height: 150px;
-}
-
-.clr {
-  clear: both;
-}
-
-a {
-  text-decoration: none;
-  color: black;
-} */
 
 
 
-@media screen and (max-width: 800px) {
-  nav {
-    font-size: 16px;
-  }
-}
+
 
 @media screen and (max-width: 600px) {
   nav {

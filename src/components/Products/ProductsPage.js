@@ -24,9 +24,9 @@ class Filter extends Component {
         return (
            <Aux>
             
-            <div className="grid-container">
+            <div className="Filter">
                 <label className="Label">Type:</label>
-                <select  value={type} onChange={this.handlePriceDropdownSelect}> 
+                <select  className="DropBox" value={type} onChange={this.handlePriceDropdownSelect}> 
                     <option value="default">All</option>
                     <option value="Electrical">Electrical & Lighting Products</option>
                     <option value="Plumbing">Plumbing</option>
@@ -36,7 +36,7 @@ class Filter extends Component {
                 </select>
     
                 <label className="Label">Price:</label>
-                <select  value={cost} onChange={this.handlePriceDropdownSelect}>
+                <select className="DropBox" value={cost} onChange={this.handlePriceDropdownSelect} >
                     <option value="default">All</option>
                     <option value="low">Under $30</option>
                     <option value="medium">$30 - $15</option>
